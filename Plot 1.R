@@ -1,5 +1,5 @@
 # set working directory
-setwd("C:/Users/Selcuk Fidan/Desktop/0_Programming_Assignment/Exploratory_DAta_Analysis/Assignment_2")
+setwd("C:/Users/Divenkar/Desktop/Programming_Assignment/Exploratory_DAta_Analysis/Assignment_2")
 if(!file.exists("./dataStore")){dir.create("./dataStore")}
 # activity monitoring data
 get.data.project <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
